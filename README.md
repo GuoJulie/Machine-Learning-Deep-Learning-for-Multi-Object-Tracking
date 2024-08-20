@@ -100,7 +100,10 @@ Features: Strong robustness to viewpoint changes, lighting changes, and distorti
 
 ### DL algorithms --> Recommended
 **model:** SSD（Single Shot MultiBox Detector）--> for object detect
+
 **model structure description file:** MobileNetSSD_deploy.prototxt
+
 **trained model weight file:** MobileNetSSD_deploy.caffemodel
+
 **net framework:** Caffe
 
