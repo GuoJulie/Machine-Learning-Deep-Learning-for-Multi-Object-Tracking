@@ -29,15 +29,15 @@ numpy 1.26.0
 
 ### 4. Run Code *mainw.py*
 **Run with ML algorithms:** 
-    - Tracker Type Selector: select ML Track algorithm (default: CSRT)
-    - Video File Selector: select test video
+    - Tracker Type Selector: select ML Track algorithm (default: CSRT)  
+    - Video File Selector: select test video  
     ![mainw](./readme/01.png)
-    - Confirm button
-    - Run: 
-        (1) SELECT:    press "SPACE" to select ROI
-        (2) PLAY:      then press "SPACE" or "ENTER" button to continue to play video
-        (3) EXIT:      press "ESC" or close windows
-    - Result:
+    - Confirm button  
+    - Run:   
+        (1) SELECT:    press "SPACE" to select ROI  
+        (2) PLAY:      then press "SPACE" or "ENTER" button to continue to play video  
+        (3) EXIT:      press "ESC" or close windows  
+    - Result:  
     ![result](./readme/03.png)
 
 **Run with DL algorithms:**
